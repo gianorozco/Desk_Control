@@ -15,6 +15,6 @@ Fedora/SUSE: gtk4-devel
 
 Arch: gtk4
 
-run make to create binary.
+run `make` to create binary.
 
 For more info: https://www.gtk.org/docs/
